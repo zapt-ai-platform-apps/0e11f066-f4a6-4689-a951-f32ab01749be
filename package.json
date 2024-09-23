@@ -1,0 +1,22 @@
+{
+  "name": "solidjs-tailwind-vite-hello-world",
+  "version": "1.0.0",
+  "description": "A Hello World app with SolidJS, Tailwind, and Vite",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "solid-js": "^1.6.10",
+    "@supabase/supabase-js": "^2.10.0",
+    "solid-markdown": "^2.0.13"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7",
+    "vite": "^4.1.4",
+    "vite-plugin-solid": "^2.5.0"
+  }
+}
